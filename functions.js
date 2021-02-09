@@ -1,1 +1,2 @@
-console.log("welcome home to javascript");
+console.log("welcome back to javascript");
+console.log("testing connectio");
